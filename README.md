@@ -1,18 +1,15 @@
-<!--# 👋 Hello, I'm Ochirsuren!
+ Hello, I'm Ochirsuren!
 
-I'm a student at Chungbuk National University 🇰🇷  
-I love learning programming and exploring open-source projects.
+I’m an international student currently in my first year studying Computer Engineering at Chungbuk National University. 
+I’m somewhat interested in C programming and fixing small issues.
 
-## 💻 Skills & Interests
-- C / C++ Programming
-- Git and GitHub
-- Web Development (HTML, CSS, JS)
-- Open Source Projects
+ Skills & Interests
+Right now I’m learning the C language, GitHub, and software development.
 
-## 🌱 Currently Learning
-- Python Basics
-- Git Commands
-- Collaborative Coding
+My goal is to successfully graduate in Computer Engineering and become proficient at coding.
 
-## 📫 Contact
-- Email: ochirsuren@example.com
+
+Contact:
+Ochirsurenerdenee00526@gmail.com
+
+Cheongju, South Korea
